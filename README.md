@@ -27,3 +27,7 @@ npm run start
 
 - SQLite DB: `data/app.db`
 - Uploads: `uploads/`
+
+## Additional docs
+
+- 英会話アプリ構想: `docs/driving-english-app-plan.md`
